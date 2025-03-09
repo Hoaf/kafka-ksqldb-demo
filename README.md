@@ -22,7 +22,7 @@ Before running the project, ensure you have the following installed:
 
 ---
 
-## Setup Guide 1
+## Setup Guide 2
 
 ### Step 1: Start Kafka and KSQL Services
 
